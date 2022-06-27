@@ -1,2 +1,2 @@
 #!/bin/bash
-tail last10lnes
+tail last10lines
