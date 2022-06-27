@@ -1,2 +1,2 @@
 #!/bin/bash
-cat last10l
+cat last10lines
